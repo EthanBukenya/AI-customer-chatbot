@@ -64,7 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
 ![Chat Interface](screenshots/chat-interface.PNG)
 ![AI Response Example](screenshots/ai-response.PNG)
 
