@@ -65,8 +65,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
-![Chat Interface](screenshots/chat-interface.png)
-![AI Response Example](screenshots/ai-response.png)
+![Chat Interface](screenshots/chat-interface.PNG)
+![AI Response Example](screenshots/ai-response.PNG)
 
 *Add your actual screenshot files to a `screenshots` folder and update the paths above*
 
